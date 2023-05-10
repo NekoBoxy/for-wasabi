@@ -1,2 +1,12 @@
 // Import all of Bootstrap's CSS
 @import "~bootstrap/scss/bootstrap.scss";
+@import "./variables.scss";
+
+td {
+  border: 1px solid #000000;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
